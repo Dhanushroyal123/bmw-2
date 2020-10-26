@@ -33,7 +33,7 @@ nav.navbar{
 }
 
 
-@media (max-width: 384px) {
+@media (max-width: 480px) {
 	nav ul{
 			margin-left: 20px;
 	}
