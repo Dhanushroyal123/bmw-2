@@ -42,5 +42,8 @@ nav.navbar{
 		line-height: 20px;
 		text-align: left;
 	}
+	div#mainimg{
+		width:100%;
+	}
 
 }
