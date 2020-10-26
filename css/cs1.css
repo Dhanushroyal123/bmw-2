@@ -43,7 +43,11 @@ nav.navbar{
 		text-align: left;
 	}
 	div#mainimg{
-		background-color:red;
+		margin-left:40px;
+		
+	}
+	div#desc{
+		margin-left:60px;
 		
 	}
 
