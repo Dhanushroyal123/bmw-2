@@ -42,8 +42,9 @@ nav.navbar{
 		line-height: 20px;
 		text-align: left;
 	}
-	div#mainimg img{
-		width:500px;
+	div#mainimg{
+		background-color:red;
+		
 	}
 
 }
