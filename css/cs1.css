@@ -1,0 +1,46 @@
+
+nav.navbar{
+			position:fixed;
+			width:100%;
+			z-index:99;
+			background:black;
+		}
+@media (max-width: 1700px){
+		nav a{
+			color: white;
+		}
+		nav a:hover{
+			color: lightgray;
+		}
+		nav ul li{
+			margin-left: 30px;
+		}
+		div#desc p{
+			color: white;
+			margin: 0px;
+			text-align: right;
+			font-family: verdana;
+			font-size: 15px;
+			text-transform: uppercase;
+			line-height: 35px;
+			letter-spacing: 3px;
+			margin: 20px;
+			border-radius: 10px;
+			padding-right: 20px;
+		}
+
+
+}
+
+
+@media (max-width: 600px) {
+	nav ul{
+			margin-left: 20px;
+	}
+	div#desc p{
+		font-size: 10px;
+		line-height: 20px;
+		text-align: left;
+	}
+
+}
