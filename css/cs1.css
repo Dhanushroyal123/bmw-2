@@ -33,7 +33,7 @@ nav.navbar{
 }
 
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
 	nav ul{
 			margin-left: 20px;
 	}
@@ -43,11 +43,7 @@ nav.navbar{
 		text-align: left;
 	}
 	div#mainimg{
-		margin-left:40px;
-		
-	}
-	div#desc{
-		margin-left:60px;
+		margin-left:100px;
 		
 	}
 
