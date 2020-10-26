@@ -42,6 +42,9 @@ nav.navbar{
 		line-height: 20px;
 		text-align: left;
 	}
+	div#desc{
+		margin-top:50px;
+	}
 	
 
 }
